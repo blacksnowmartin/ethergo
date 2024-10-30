@@ -1,0 +1,10 @@
+/home/miriam/Desktop/ethergo/target/release/deps/liballoy_sol_macro_input-d8ea423fc03b4733.rmeta: /home/miriam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-sol-macro-input-0.7.6/src/lib.rs /home/miriam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-sol-macro-input-0.7.6/src/attr.rs /home/miriam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-sol-macro-input-0.7.6/src/input.rs /home/miriam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-sol-macro-input-0.7.6/src/expander.rs
+
+/home/miriam/Desktop/ethergo/target/release/deps/liballoy_sol_macro_input-d8ea423fc03b4733.rlib: /home/miriam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-sol-macro-input-0.7.6/src/lib.rs /home/miriam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-sol-macro-input-0.7.6/src/attr.rs /home/miriam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-sol-macro-input-0.7.6/src/input.rs /home/miriam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-sol-macro-input-0.7.6/src/expander.rs
+
+/home/miriam/Desktop/ethergo/target/release/deps/alloy_sol_macro_input-d8ea423fc03b4733.d: /home/miriam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-sol-macro-input-0.7.6/src/lib.rs /home/miriam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-sol-macro-input-0.7.6/src/attr.rs /home/miriam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-sol-macro-input-0.7.6/src/input.rs /home/miriam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-sol-macro-input-0.7.6/src/expander.rs
+
+/home/miriam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-sol-macro-input-0.7.6/src/lib.rs:
+/home/miriam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-sol-macro-input-0.7.6/src/attr.rs:
+/home/miriam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-sol-macro-input-0.7.6/src/input.rs:
+/home/miriam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-sol-macro-input-0.7.6/src/expander.rs:
