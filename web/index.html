@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Arbitrum Stylus Ether Transfer</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container mt-5">
+    <h1 class="text-center">Arbitrum Ether Transfer</h1>
+    <p id="status" class="text-center">Connect your wallet to begin.</p>
+    
+    <div class="d-flex justify-content-center">
+      <button id="connectWallet" class="btn btn-primary mr-2">Connect Wallet</button>
+      <input type="number" id="depositAmount" class="form-control w-25 mr-2" placeholder="Amount in Ether" step="0.01" min="0.01">
+      <button id="deposit" class="btn btn-success mr-2">Deposit</button>
+      <button id="withdraw" class="btn btn-danger">Withdraw</button>
+    </div>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/ethers/5.7.2/ethers.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
